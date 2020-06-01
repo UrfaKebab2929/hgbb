@@ -1,0 +1,25 @@
+{
+  "name": "HG-BB",
+  "version": "1.0.0",
+  "description": "Bot Altyapı Projesine Hoşgeldin! =================  Bu Dosya Tamamen `Emirhan Saraç'a Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdik Gerekli Modüller Yüklüdür..!",
+  "main": "bot.js",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "canvas-constructor": "^3.1.0",
+    "chalk": "^2.4.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.0.0-b22",
+    "superagent": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
